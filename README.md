@@ -4,6 +4,8 @@
 
 Users can update their profiles and save data to the MongoDB database.
 
+### Project workflow
+
 ![Profile App Pic](/Docker%20project%20workflow.jpg)
 
 - All components are docker-based.
